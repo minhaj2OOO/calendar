@@ -1,0 +1,4 @@
+git clone calendar
+cd calendar 
+npm install
+npm install @craco/craco dayjs @tailwindcss/forms
